@@ -1,0 +1,44 @@
+@charset "utf-8";
+body{margin:0;padding:0}
+.yahei {font-family: "Microsoft yahei",sans-serif,Arial;}
+.bold{font-weight:bold;}
+.font12{font-size:12px;}
+.font14{font-size:14px;}
+.font16{font-size:16px;}
+.font18{font-size:18px;}
+.font22{font-size:22px;}
+.font26{font-size:26px;}
+
+.white{color:white;}   
+.red{color:red;}           
+.black{color:black;}   
+.blue{color:blue;}     
+.purple{color:purple;}   
+.green{color:green;}       
+.yellow{color:yellow;}    
+.silver{color:silver;}           
+.gray{color:gray;}           
+.lawngreen{color:#7CFC00;}
+.whitebg{background:white;}   
+.redbg{background:red;}           
+.blackbg{background:black;}   
+.bluebg{background:blue;}     
+.purplebg{background:purple;}   
+.greenbg{background:green;}       
+.yellowbg{background:yellow;}    
+.silverbg{background:silver;}           
+.graybg{background:gray;}           
+.lawngreenbg{background:#7CFC00;}
+
+.fl{float:left;}
+.fr{float:right;}
+.textcenter{text-align:center;}
+.allwidth{width: 100%;}
+.page{ background: #f5f5f5; font-size: 14px; margin: 0 auto; }
+.myp{line-height:36px;height:36px}
+.radiusimg{background: red; border-radius: 50px;height:25px;width:25px;display: block;overflow: hidden;text-align: center;border:1px solid #eee}
+.radiusimg p{ font-size: 12px; color:#fff; line-height: 25px;}
+ul{ padding: 0; margin: 0; list-style: none; }
+a {text-decoration:none;} 
+fieldset, img {border:0;}
+img{ width: 100%; }
